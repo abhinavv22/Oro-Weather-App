@@ -64,7 +64,14 @@ oro-weather-app/
 └── README.md
 
 
+
 Author
 Abhinav Singh
 📧 abhinavsinghh2019@gmail.com
 🌐 https://github.com/abhinavv22
+
+![Weather1](https://github.com/user-attachments/assets/de52e8b4-029a-4343-b0f7-93c708165b35)
+![Weather3](https://github.com/user-attachments/assets/9f5f3410-f9d4-4334-9ae9-216fb392e6a6)
+![Weather2](https://github.com/user-attachments/assets/6b2a14df-586e-4d0d-b6e8-f44961078127)
+
+
